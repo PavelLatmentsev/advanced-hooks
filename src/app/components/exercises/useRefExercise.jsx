@@ -27,7 +27,7 @@ const UseRefExercise = () => {
             >
                 <small>Блок</small>
             </div>
-            <button className="btn btn-primary" onClick={heandleChangeButton}>Шазам</button>
+            <button className="btn btn-primary mt-3" onClick={heandleChangeButton}>Transform</button>
         </CollapseWrapper>
     );
 };
